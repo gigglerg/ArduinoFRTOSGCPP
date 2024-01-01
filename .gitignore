@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Specifics
+docs/doxygen.log
+docs/examples.txt
