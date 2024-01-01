@@ -1,2 +1,4 @@
 # ArduinoFRTOSGCPP
-Simple C++ wrapper for Free real time OS to make my development easier
+Simple C++ wrapper for Free real-time OS to make development easier
+
+YOU DO NOT NEED THIS BRANCH IT IS FOR PUBLISH BY GITHUB PAGES.  FOLLOW DOXYGEN INFORMATION IN A RELEASE /docs FOLDER IF YOU DO WANT TO MAKE
